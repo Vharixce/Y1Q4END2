@@ -1,0 +1,17 @@
+{
+  "name": "een-kip-op-een-vlot",
+  "author": "action-henk",
+  "private": false,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --outDir=docs --base=./"
+  },
+  "devDependencies": {
+    "vite": "^5.2.8"
+  },
+  "dependencies": {
+    "excalibur": "^0.29.2"
+  }
+}
